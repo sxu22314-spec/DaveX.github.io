@@ -3,10 +3,12 @@
 
 ---
 
-## [cite_start]1. 动机与研究 (Motivation & Research) [cite: 169]
+1. 动机与研究 (Motivation & Research)
 
 ### [cite_start]项目动机 (The Why) [cite: 170]
-> 在此处输入约 200 字的陈述，解释为什么小组选择了特定的赛道（数字遗产、社会连接或积极生活方式）。
+We selected the theme "Relation between Generations" because, in our increasingly digitized society, a profound "digital divide" often isolates children, parents, and grandparents. While younger generations are digital natives, the elderly frequently struggle with complex interfaces, leading to a loss of shared family narratives and emotional distance. Our goal is to bridge this gap by leveraging a Hybrid Playful Experience that combines the tactile comfort of Tangible Interaction with the immersive magic of XR (Extended Reality).
+
+By integrating physical objects with mobile-based XR, we move beyond the limitations of passive video calls. This approach fulfills the psychological need for co-presence—allowing a grandchild to feel their grandparent’s guidance through a physical toy that "comes to life" via a screen. We believe that play is a universal language; by designing a system where physical touch triggers digital storytelling, we can transform family history from a static memory into an active, collaborative game. This project aims to empower grandparents as active storytellers while providing children with a tangible connection to their roots, ultimately fostering deeper empathy and social cohesion across all generations.。
 
 ### [cite_start]差距分析 (The Gap) [cite: 171, 172]
 我们调研了 4 篇学术论文和 4 个商业产品，以下是对比总结：
