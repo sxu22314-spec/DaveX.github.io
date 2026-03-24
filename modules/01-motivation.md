@@ -67,7 +67,7 @@ title: Phase 1 - Motivation & Research
 ### 📚 Academic Papers
 <table class="gap-table">
   <tr>
-    <th width="30%">Paper Focus</th>
+    <th width="30%">Paper</th>
     <th width="35%">3 Things They Did Well</th>
     <th width="35%">3 Things They Missed</th>
   </tr>
