@@ -37,11 +37,6 @@ layout: default
     <p>算法工程 / 丹青</p>
     <a href="https://username3.github.io" class="github-link">个人主页 →</a>
   </div>
-  <div class="team-card">
-    <h4>成员 D</h4>
-    <p>产品经理 / 文档</p>
-    <a href="https://username4.github.io" class="github-link">个人主页 →</a>
-  </div>
 </div>
 
 <h2 class="section-title">🚀 项目模块概览</h2>
