@@ -90,22 +90,59 @@ title: Phase 1 - Motivation & Research
       </ul>
     </td>
   </tr>
-  <tr>
-    <td><b>Camera Interaction Design</b></td>
+  <td><b>Relational Design for Sensorial Play</b><br><small>Focus: Multi-sensory (Touch/Sound) Remote Play</small></td>
     <td>
       <div class="list-good">Done Well:</div>
       <ul class="custom-list">
-        <li>Natural gesture controls</li>
-        <li>No wearable hardware needed</li>
-        <li>High user immersion</li>
+        <li>Emphasized <b>non-verbal bonding</b> through tactile feedback.</li>
+        <li>Reduced "performance anxiety" in conversation.</li>
+        <li>Created a "third space" beyond simple video screens.</li>
       </ul>
     </td>
     <td>
       <div class="list-miss">Missed:</div>
       <ul class="custom-list">
-        <li>Lighting sensitivity issues</li>
-        <li>High latency in web apps</li>
-        <li>Lack of social context</li>
+        <li>Required <b>specialized hardware</b> (sensors) not found in homes.</li>
+        <li>High latency issues for real-time synchronization.</li>
+        <li>Short-term engagement; lacked a narrative "hook."</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Story-Me System</b><br><small>Focus: Storytelling & Digital Preservation</small></td>
+    <td>
+      <div class="list-good">Done Well:</div>
+      <ul class="custom-list">
+        <li>Strong focus on <b>long-term heritage</b> and legacy.</li>
+        <li>Scaffolded prompts to help seniors recall memories.</li>
+        <li>Validated the emotional value of "being heard."</li>
+      </ul>
+    </td>
+    <td>
+      <div class="list-miss">Missed:</div>
+      <ul class="custom-list">
+        <li><b>Passive for youth:</b> Grandkids were often just "listeners."</li>
+        <li>High cognitive load for uploading/organizing media.</li>
+        <li>Lack of "Playfulness" (too much like an interview).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tangible VR-Based System (2022)</b><br><small>Focus: Immersive VR & Co-Learning</small></td>
+    <td>
+      <div class="list-good">Done Well:</div>
+      <ul class="custom-list">
+        <li>Combined <b>physical objects</b> with virtual environments.</li>
+        <li>Enhanced spatial presence (feeling "together").</li>
+        <li>Used gamification to drive the learning process.</li>
+      </ul>
+    </td>
+    <td>
+      <div class="list-miss">Missed:</div>
+      <ul class="custom-list">
+        <li><b>VR Sickness:</b> Physical discomfort for many elderly users.</li>
+        <li>Isolation: High-end headsets hide facial expressions.</li>
+        <li>Unnatural interaction: Controllers were too complex.</li>
       </ul>
     </td>
   </tr>
@@ -153,6 +190,44 @@ title: Phase 1 - Motivation & Research
         <li>Steep learning curve for seniors</li>
         <li>Complex navigation</li>
         <li>Chaotic social environment</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>StorySign (by Huawei/Aardman)</b><br><small>Focus: AI Sign Language Translation</small></td>
+    <td>
+      <div class="list-good">Done Well:</div>
+      <ul class="custom-list">
+        <li>Innovative <b>real-time AI avatars</b> for sign language.</li>
+        <li>Focuses on a highly <b>specific niche</b> (deaf children).</li>
+        <li>Strong emotional impact on family literacy.</li>
+      </ul>
+    </td>
+    <td>
+      <div class="list-miss">Missed:</div>
+      <ul class="custom-list">
+        <li><b>One-way flow:</b> Lacks reciprocal play mechanics.</li>
+        <li>Limited library: Only works with specific physical books.</li>
+        <li>Lacks "Intergenerational" <b>shared controls</b>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Osmo / Various AR Storybooks</b><br><small>Focus: Phygital (Physical + Digital) Play</small></td>
+    <td>
+      <div class="list-good">Done Well:</div>
+      <ul class="custom-list">
+        <li>Excellent <b>tangible feedback</b> using physical tiles/drawings.</li>
+        <li>Encourages "heads-up" play away from the screen.</li>
+        <li>Highly intuitive for children (Low learning curve).</li>
+      </ul>
+    </td>
+    <td>
+      <div class="list-miss">Missed:</div>
+      <ul class="custom-list">
+        <li><b>Remote Isolation:</b> Primarily designed for co-located play.</li>
+        <li>Hardware dependent: Requires <b>specific mirrors/reflectors</b>.</li>
+        <li>Over-simplistic for seniors (may feel too "childish").</li>
       </ul>
     </td>
   </tr>
