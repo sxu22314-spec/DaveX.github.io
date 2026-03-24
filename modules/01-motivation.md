@@ -212,7 +212,7 @@ title: Phase 1 - Motivation & Research
     </td>
   </tr>
   <tr>
-    <td><b>StorySign (by Huawei/Aardman)</b><br><small>Focus: AI Sign Language Translation</small></td>
+    <td><b>StorySign (by Huawei/Aardman)</b></td>
     <td>
       <div class="list-good">Done Well:</div>
       <ul class="custom-list">
@@ -231,7 +231,7 @@ title: Phase 1 - Motivation & Research
     </td>
   </tr>
   <tr>
-    <td><b>Osmo / Various AR Storybooks</b><br><small>Focus: Phygital (Physical + Digital) Play</small></td>
+    <td><b>Osmo / Various AR Storybooks</b></td>
     <td>
       <div class="list-good">Done Well:</div>
       <ul class="custom-list">
@@ -246,6 +246,82 @@ title: Phase 1 - Motivation & Research
         <li><b>Remote Isolation:</b> Primarily designed for co-located play.</li>
         <li>Hardware dependent: Requires <b>specific mirrors/reflectors</b>.</li>
         <li>Over-simplistic for seniors (may feel too "childish").</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>FaceTime / Zoom</b><br><small>Video Conferencing Platforms</small></td>
+    <td>
+      <div class="list-good">Done Well:</div>
+      <ul class="custom-list">
+        <li>Extreme <b>stability</b> across various network conditions.</li>
+        <li>High market reach and universal user familiarity.</li>
+        <li>Simple, frictionless UI for establishing basic calls.</li>
+      </ul>
+    </td>
+    <td>
+      <div class="list-miss">Missed:</div>
+      <ul class="custom-list">
+        <li>Passive interaction (limited to verbal/visual).</li>
+        <li>"Video call fatigue" during extended sessions.</li>
+        <li>Lack of <b>integrated shared playful activities</b>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Roblox (Social Play)</b><br><small>User-Generated Gaming Universe</small></td>
+    <td>
+      <div class="list-good">Done Well:</div>
+      <ul class="custom-list">
+        <li>Infinite <b>creativity</b> and user-generated content.</li>
+        <li>Highly playful mechanics and avatar-based expression.</li>
+        <li>Instant real-time social interaction in 3D spaces.</li>
+      </ul>
+    </td>
+    <td>
+      <div class="list-miss">Missed:</div>
+      <ul class="custom-list">
+        <li><b>Steep learning curve</b> for non-tech-savvy seniors.</li>
+        <li>Complex 3D navigation and multi-button controls.</li>
+        <li>Chaotic social environment unsuitable for quiet bonding.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>StorySign</b><br><small>AI-Powered Sign Language Tool</small></td>
+    <td>
+      <div class="list-good">Done Well:</div>
+      <ul class="custom-list">
+        <li>Innovative use of <b>AI avatars</b> for real-time translation.</li>
+        <li>Addresses a highly specific social niche (deaf literacy).</li>
+        <li>High emotional impact on parent-child bonding.</li>
+      </ul>
+    </td>
+    <td>
+      <div class="list-miss">Missed:</div>
+      <ul class="custom-list">
+        <li>One-way information flow; lacks reciprocal play.</li>
+        <li>Highly dependent on specific physical book titles.</li>
+        <li>Lacks <b>intergenerational co-creation</b> features.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Osmo / AR Storybooks</b><br><small>Phygital Learning Systems</small></td>
+    <td>
+      <div class="list-good">Done Well:</div>
+      <ul class="custom-list">
+        <li>Excellent <b>tangible feedback</b> using physical objects.</li>
+        <li>Encourages "heads-up" play instead of screen staring.</li>
+        <li>Highly intuitive interaction for younger children.</li>
+      </ul>
+    </td>
+    <td>
+      <div class="list-miss">Missed:</div>
+      <ul class="custom-list">
+        <li>Primarily designed for <b>co-located</b> (in-person) play.</li>
+        <li>High hardware dependency (requires base/reflector).</li>
+        <li>Thematic content often feels too "childish" for seniors.</li>
       </ul>
     </td>
   </tr>
