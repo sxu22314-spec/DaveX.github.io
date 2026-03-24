@@ -90,6 +90,8 @@ title: Phase 1 - Motivation & Research
       </ul>
     </td>
   </tr>
+
+  <tr>
   <td><b>Relational Design for Sensorial Play</b><br><small>Focus: Multi-sensory (Touch/Sound) Remote Play</small></td>
     <td>
       <div class="list-good">Done Well:</div>
