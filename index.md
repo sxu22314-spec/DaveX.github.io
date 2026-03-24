@@ -23,48 +23,63 @@ layout: default
 ## 👥 团队成员
 <div class="team-container">
   <div class="team-card">
-    <h4>成员 A</h4>
-    <p>后端开发 / 架构</p>
-    <a href="https://username1.github.io" class="github-link">个人主页 →</a>
+    <h4>Member</h4>
+    <p>[Contribution]</p>
+    <a href="https://username1.github.io" class="github-link">homepage →</a>
   </div>
   <div class="team-card">
-    <h4>成员 B</h4>
-    <p>前端开发 / UI设计</p>
-    <a href="https://username2.github.io" class="github-link">个人主页 →</a>
+    <h4>Member</h4>
+    <p>[Contribution]</p>
+    <a href="https://username2.github.io" class="github-link">homepage →</a>
   </div>
   <div class="team-card">
-    <h4>成员 C</h4>
-    <p>算法工程 / 丹青</p>
-    <a href="https://username3.github.io" class="github-link">个人主页 →</a>
+    <h4>Member</h4>
+    <p>[Contribution]</p>
+    <a href="https://username3.github.io" class="github-link">homepage →</a>
   </div>
 </div>
 
-<h2 class="section-title">🚀 项目模块概览</h2>
+<h2 class="section-title">📍 Project Roadmap</h2>
 <div class="module-container">
 
-  <a href="./modules/booking-system.html" class="module-card">
-    <h3>在线预约系统</h3>
-    <p>集成 Spring Boot 与 Vue 的全栈模块，支持专家排班、费用自动计算及 RESTful API 调用测试。</p>
+  <a href="./modules/01-motivation.html" class="module-card">
+    <div class="module-info">
+      <h3>1. Motivation & Research <span>Phase 1</span></h3>
+      <p>The "Why" behind our project, literature gap analysis of 8 sources, and defined personas for Heritage/Social/Active tracks.</p>
+    </div>
+    <div class="arrow">›</div>
   </a>
 
-  <a href="./modules/interaction-design.html" class="module-card">
-    <h3>交互式相机体验</h3>
-    <p>基于摄像头识别的非 VR 硬件交互方案，通过图像算法实现流畅的用户手势反馈。</p>
+  <a href="./modules/02-requirements.html" class="module-card">
+    <div class="module-info">
+      <h3>2. User Requirements <span>Phase 2</span></h3>
+      <p>Visual User Journey Maps, core "Playful" requirements, and field evidence from user interviews and site observations.</p>
+    </div>
+    <div class="arrow">›</div>
   </a>
 
-  <a href="./modules/image-denoising.html" class="module-card">
-    <h3>图像去噪实验 (DnCNN)</h3>
-    <p>展示深度卷积神经网络在 Fashion-MNIST 上的训练结果，通过模型压缩解决硬件显存限制问题。</p>
+  <a href="./modules/03-ideation.html" class="module-card">
+    <div class="module-info">
+      <h3>3. Ideation & Alternatives <span>Phase 3</span></h3>
+      <p>"Crazy Eights" rapid sketching, comparison of design alternatives, and the interactive Low-Fi Figma prototype.</p>
+    </div>
+    <div class="arrow">›</div>
   </a>
 
-  <a href="./modules/devops-docker.html" class="module-card">
-    <h3>DevOps 与容器化</h3>
-    <p>展示 Redis、MySQL 等中间件在 Docker 中的部署流程，以及如何利用 Docker Compose 快速构建环境。</p>
+  <a href="./modules/04-implementation.html" class="module-card">
+    <div class="module-info">
+      <h3>4. Technical Implementation <span>Phase 4</span></h3>
+      <p>System architecture diagrams, High-Fi functional system URL, and a detailed breakdown of individual contributions.</p>
+    </div>
+    <div class="arrow">›</div>
   </a>
 
-  <a href="./modules/enterprise-mall.html" class="module-card">
-    <h3>企业级电商复刻</h3>
-    <p>基于微服务架构的项目展示，涵盖分布式权限管理、海量数据搜索及秒杀系统优化细节。</p>
+  <a href="./modules/05-evaluation.html" class="module-card">
+    <div class="module-info">
+      <h3>5. Evaluation & Reflection <span>Phase 5</span></h3>
+      <p>Usability testing results, iterative "Before & After" refinements, and discussion on ethical AI usage.</p>
+    </div>
+    <div class="arrow">›</div>
   </a>
 
 </div>
