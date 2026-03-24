@@ -1,4 +1,4 @@
-# [项目名称：例如 Suzhou Whispers]
+# relation between generation
 **小组 ID: [您的组号]** **成员：[成员1姓名], [成员2姓名], [成员3姓名], [成员4姓名]**
 
 ---
