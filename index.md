@@ -44,7 +44,7 @@ layout: default
 
   <a href="./modules/01-motivation.html" class="module-card">
     <div class="module-info">
-      <h3>1. Motivation & Research <span>Phase 1</span></h3>
+      <h3>1. Motivation & Research</h3>
       <p>The "Why" behind our project, literature gap analysis of 8 sources, and defined personas for Heritage/Social/Active tracks.</p>
     </div>
     <div class="arrow">›</div>
@@ -52,7 +52,7 @@ layout: default
 
   <a href="./modules/02-requirements.html" class="module-card">
     <div class="module-info">
-      <h3>2. User Requirements <span>Phase 2</span></h3>
+      <h3>2. User Requirements</h3>
       <p>Visual User Journey Maps, core "Playful" requirements, and field evidence from user interviews and site observations.</p>
     </div>
     <div class="arrow">›</div>
@@ -60,7 +60,7 @@ layout: default
 
   <a href="./modules/03-ideation.html" class="module-card">
     <div class="module-info">
-      <h3>3. Ideation & Alternatives <span>Phase 3</span></h3>
+      <h3>3. Ideation & Alternatives</h3>
       <p>"Crazy Eights" rapid sketching, comparison of design alternatives, and the interactive Low-Fi Figma prototype.</p>
     </div>
     <div class="arrow">›</div>
@@ -68,7 +68,7 @@ layout: default
 
   <a href="./modules/04-implementation.html" class="module-card">
     <div class="module-info">
-      <h3>4. Technical Implementation <span>Phase 4</span></h3>
+      <h3>4. Technical Implementation</h3>
       <p>System architecture diagrams, High-Fi functional system URL, and a detailed breakdown of individual contributions.</p>
     </div>
     <div class="arrow">›</div>
@@ -76,7 +76,7 @@ layout: default
 
   <a href="./modules/05-evaluation.html" class="module-card">
     <div class="module-info">
-      <h3>5. Evaluation & Reflection <span>Phase 5</span></h3>
+      <h3>5. Evaluation & Reflection</h3>
       <p>Usability testing results, iterative "Before & After" refinements, and discussion on ethical AI usage.</p>
     </div>
     <div class="arrow">›</div>
