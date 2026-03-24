@@ -25,17 +25,17 @@ layout: default
   <div class="team-card">
     <h4>Member</h4>
     <p>[Contribution]</p>
-    <a href="https://username1.github.io" class="github-link">homepage →</a>
+    <a href="https://username1.github.io" class="github-link">Home →</a>
   </div>
   <div class="team-card">
     <h4>Member</h4>
     <p>[Contribution]</p>
-    <a href="https://username2.github.io" class="github-link">homepage →</a>
+    <a href="https://username2.github.io" class="github-link">Home →</a>
   </div>
   <div class="team-card">
     <h4>Member</h4>
     <p>[Contribution]</p>
-    <a href="https://username3.github.io" class="github-link">homepage →</a>
+    <a href="https://username3.github.io" class="github-link">Home →</a>
   </div>
 </div>
 
