@@ -119,7 +119,7 @@ title: Phase 1 - Motivation & Research
   </tr>
   <tr>
     <td>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-05447-1_31" target="_blank">
+      <a href="https://www.mdpi.com/2071-1050/14/10/6067" target="_blank">
         "Construction of a Tangible VR-Based Interactive System for Intergenerational Learning" (2022)
       </a>
     </td>
@@ -142,7 +142,7 @@ title: Phase 1 - Motivation & Research
   </tr>
   <tr>
     <td>
-      <a href="https://www.tandfonline.com/doi/abs/10.1080/10447318.2021.1988251" target="_blank">
+      <a href="https://www.mdpi.com/2071-1050/14/6/3213" target="_blank">
         "Empirical Study of VR to Promote Intergenerational Communication" (2021)
       </a>
     </td>
