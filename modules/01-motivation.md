@@ -163,64 +163,7 @@ title: Phase 1 - Motivation & Research
       </ul>
     </td>
   </tr>
-
-  <tr>
-  <td><b>Relational Design for Sensorial Play</b><br><small>Focus: Multi-sensory (Touch/Sound) Remote Play</small></td>
-    <td>
-      <div class="list-good">Done Well:</div>
-      <ul class="custom-list">
-        <li>Emphasized <b>non-verbal bonding</b> through tactile feedback.</li>
-        <li>Reduced "performance anxiety" in conversation.</li>
-        <li>Created a "third space" beyond simple video screens.</li>
-      </ul>
-    </td>
-    <td>
-      <div class="list-miss">Missed:</div>
-      <ul class="custom-list">
-        <li>Required <b>specialized hardware</b> (sensors) not found in homes.</li>
-        <li>High latency issues for real-time synchronization.</li>
-        <li>Short-term engagement; lacked a narrative "hook."</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Story-Me System</b><br><small>Focus: Storytelling & Digital Preservation</small></td>
-    <td>
-      <div class="list-good">Done Well:</div>
-      <ul class="custom-list">
-        <li>Strong focus on <b>long-term heritage</b> and legacy.</li>
-        <li>Scaffolded prompts to help seniors recall memories.</li>
-        <li>Validated the emotional value of "being heard."</li>
-      </ul>
-    </td>
-    <td>
-      <div class="list-miss">Missed:</div>
-      <ul class="custom-list">
-        <li><b>Passive for youth:</b> Grandkids were often just "listeners."</li>
-        <li>High cognitive load for uploading/organizing media.</li>
-        <li>Lack of "Playfulness" (too much like an interview).</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tangible VR-Based System (2022)</b><br><small>Focus: Immersive VR & Co-Learning</small></td>
-    <td>
-      <div class="list-good">Done Well:</div>
-      <ul class="custom-list">
-        <li>Combined <b>physical objects</b> with virtual environments.</li>
-        <li>Enhanced spatial presence (feeling "together").</li>
-        <li>Used gamification to drive the learning process.</li>
-      </ul>
-    </td>
-    <td>
-      <div class="list-miss">Missed:</div>
-      <ul class="custom-list">
-        <li><b>VR Sickness:</b> Physical discomfort for many elderly users.</li>
-        <li>Isolation: High-end headsets hide facial expressions.</li>
-        <li>Unnatural interaction: Controllers were too complex.</li>
-      </ul>
-    </td>
-  </tr>
+  
 </table>
 
 ### 🛠 Commercial Products
