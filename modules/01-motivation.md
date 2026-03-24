@@ -72,21 +72,94 @@ title: Phase 1 - Motivation & Research
     <th width="35%">3 Things They Missed</th>
   </tr>
   <tr>
-    <td><b>Intergenerational Play & Joy</b></td>
+    <td>
+      <a href="https://dl.acm.org/doi/10.1145/3357236.3395460" target="_blank">
+        "Relational Design for Remote Intergenerational Sensorial Play Experiences" (2020)
+      </a>
+    </td>
     <td>
       <div class="list-good">Done Well:</div>
       <ul class="custom-list">
-        <li>Strong theoretical framework</li>
-        <li>Defined "shared joy" metrics</li>
-        <li>Long-term impact analysis</li>
+        <li>Emphasized <b>non-verbal bonding</b> through tactile feedback.</li>
+        <li>Reduced "performance anxiety" in conversation.</li>
+        <li>Created a "third space" beyond simple video screens.</li>
       </ul>
     </td>
     <td>
       <div class="list-miss">Missed:</div>
       <ul class="custom-list">
-        <li>High hardware costs</li>
-        <li>Ignored low-literacy users</li>
-        <li>Limited scalability</li>
+        <li>Required <b>specialized hardware</b> (sensors) not found in homes.</li>
+        <li>High latency issues for real-time synchronization.</li>
+        <li>Short-term engagement; lacked a narrative "hook."</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://dl.acm.org/doi/10.1145/3313831.3376378" target="_blank">
+        "Story-Me: Design of a System to Support Intergenerational Storytelling and Preservation for Older Adults" (2020)
+      </a>
+    </td>
+    <td>
+      <div class="list-good">Done Well:</div>
+      <ul class="custom-list">
+        <li>Strong focus on <b>long-term heritage</b> and legacy.</li>
+        <li>Scaffolded prompts to help seniors recall memories.</li>
+        <li>Validated the emotional value of "being heard."</li>
+      </ul>
+    </td>
+    <td>
+      <div class="list-miss">Missed:</div>
+      <ul class="custom-list">
+        <li><b>Passive for youth:</b> Grandkids were often just "listeners."</li>
+        <li>High cognitive load for uploading/organizing media.</li>
+        <li>Lack of "Playfulness" (too much like an interview).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-05447-1_31" target="_blank">
+        "Construction of a Tangible VR-Based Interactive System for Intergenerational Learning" (2022)
+      </a>
+    </td>
+    <td>
+      <div class="list-good">Done Well:</div>
+      <ul class="custom-list">
+        <li>Combined <b>physical objects</b> with virtual environments.</li>
+        <li>Enhanced spatial presence (feeling "together").</li>
+        <li>Used gamification to drive the learning process.</li>
+      </ul>
+    </td>
+    <td>
+      <div class="list-miss">Missed:</div>
+      <ul class="custom-list">
+        <li><b>VR Sickness:</b> Physical discomfort for many elderly users.</li>
+        <li>Isolation: High-end headsets hide facial expressions.</li>
+        <li>Unnatural interaction: Controllers were too complex.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.tandfonline.com/doi/abs/10.1080/10447318.2021.1988251" target="_blank">
+        "Empirical Study of VR to Promote Intergenerational Communication" (2021)
+      </a>
+    </td>
+    <td>
+      <div class="list-good">Done Well:</div>
+      <ul class="custom-list">
+        <li>Provided <b>quantitative data</b> on user satisfaction.</li>
+        <li>Identified key "ice-breaking" mechanics in VR.</li>
+        <li>Focused on mutual empathy between age groups.</li>
+      </ul>
+    </td>
+    <td>
+      <div class="list-miss">Missed:</div>
+      <ul class="custom-list">
+        <li>Excluded seniors with <b>moderate visual impairments</b>.</li>
+        <li>The setup was too bulky for a typical living room.</li>
+        <li>Over-relied on technical support during the study.</li>
       </ul>
     </td>
   </tr>
