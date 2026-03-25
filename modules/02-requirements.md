@@ -72,7 +72,6 @@ title: Phase 2 - User Requirements
 <label for="map-toggle" class="map-wrapper">
   <img src="../images/User Journey Map.png" alt="User Journey Map" title="Click to enlarge">
   <div style="text-align:center; font-size: 0.8em; color: #999; padding: 10px;">🔍 Click map to enlarge</div>
-</label>
 <input type="checkbox" id="map-toggle">
 <label for="map-toggle" class="map-overlay">
   <img src="../images/User Journey Map.png" alt="User Journey Map Enlarged">
