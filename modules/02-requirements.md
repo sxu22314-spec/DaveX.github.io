@@ -62,19 +62,21 @@ title: Phase 2 - User Requirements
   .photo-item:hover .photo-caption { transform: translateY(0); }
 </style>
 
+[← Back to Roadmap](/)
+
 # 📂 Module 2: User Requirements
 
 ## 2.1 User Journey Map
 *Current pain points of seniors and children during remote communication.*
 
 <label for="map-toggle" class="map-wrapper">
-  <img src="../assets/images/user-journey-map.png" alt="User Journey Map" title="Click to enlarge">
+  <img src="../images/User Journey Map.png" alt="User Journey Map" title="Click to enlarge">
   <div style="text-align:center; font-size: 0.8em; color: #999; padding: 10px;">🔍 Click map to enlarge</div>
 </label>
 
 <input type="checkbox" id="map-toggle">
 <label for="map-toggle" class="map-overlay">
-  <img src="../assets/images/user-journey-map.png" alt="User Journey Map Enlarged">
+  <img src="../images/User Journey Map.png" alt="User Journey Map Enlarged">
 </label>
 
 ---
@@ -106,25 +108,25 @@ title: Phase 2 - User Requirements
 
 <div class="photo-grid">
   <div class="photo-item">
-    <img src="../assets/images/evidence1.jpg" alt="Field Study 1">
+    <img src="../images/evidence1.jpg" alt="Field Study 1">
     <div class="photo-caption">Observing grandparent-grandchild interactions at the Grand Canal.</div>
   </div>
   <div class="photo-item">
-    <img src="../assets/images/evidence2.jpg" alt="Field Study 2">
+    <img src="../images/evidence2.jpg" alt="Field Study 2">
     <div class="photo-caption">User interview with a local senior citizen in Suzhou.</div>
   </div>
 
   <div class="photo-item">
-    <img src="../assets/images/evidence3.jpg" alt="Field Study 3">
+    <img src="../images/evidence3.jpg" alt="Field Study 3">
     <div class="photo-caption">Testing camera-based gesture recognition in an outdoor setting.</div>
   </div>
   <div class="photo-item">
-    <img src="../assets/images/evidence4.jpg" alt="Field Study 4">
+    <img src="../images/evidence4.jpg" alt="Field Study 4">
     <div class="photo-caption">Primary stakeholder (Child) testing the initial game concept.</div>
   </div>
 
   <div class="photo-item large">
-    <img src="../assets/images/evidence5.jpg" alt="Field Study 5">
+    <img src="../images/evidence5.jpg" alt="Field Study 5">
     <div class="photo-caption">Group brainstorming session refining the User Journey Map.</div>
   </div>
 </div>
