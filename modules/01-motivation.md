@@ -261,7 +261,7 @@ title: Phase 1 - Motivation & Research
       <div class="persona-avatar">👴</div>
       <div class="persona-title">
         <span class="persona-tag">Primary User</span>
-        <h3>Grandpa Chen (72)</h3>
+        <h3>Grandpa Xu (72)</h3>
       </div>
     </div>
     <div class="persona-body">
@@ -276,7 +276,7 @@ title: Phase 1 - Motivation & Research
       <div class="persona-avatar">👦</div>
       <div class="persona-title">
         <span class="persona-tag">Secondary User</span>
-        <h3>Leo (9)</h3>
+        <h3>Dave (9)</h3>
       </div>
     </div>
     <div class="persona-body">
