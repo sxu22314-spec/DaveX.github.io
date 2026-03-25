@@ -55,9 +55,9 @@ title: Phase 1 - Motivation & Research
 ## 1.1 The Why: Choosing the Social Track
 
 <div class="motivation-box">
-  Our group chose the <b>Social Track</b> because the "Generation Gap" is no longer just a difference in values, but a profound <b>Digital Divide</b>. While Gen Z navigates immersive visual media, the elderly are often isolated in static, text-heavy digital environments. We believe social interaction should not be a technical hurdle. 
+  Our group chose the <b>Social Track</b> because the core challenge of intergenerational relationships is not a lack of technology, but a "connection gap" characterized by declining shared language and reduced emotional synchrony. While a Technical Track might focus on the "how" of data transmission, the Social Track allows us to focus on the "why" of human interaction—prioritizing the quality of bonds between grandparents, parents, and children. 
   <br><br>
-  By focusing on the Social Track, we aim to design a <b>Playful Experience (PxD)</b> that utilizes accessible camera-based interactions to create a "shared playground." This approach transforms intergenerational communication from a mundane video call into an active, collaborative game, proving that technology can be a bridge for emotional resonance rather than a barrier to connection.
+  By focusing on the Social Track, we aim to transform mobile devices from "solitary screens" into <b>social catalysts</b>. By making it a <b>neurological and emotional bridge</b>, we are enpowered to design an system where digital interactions translate into real-world empathy, ensuring that every generation feels seen, heard, and valued within the family unit.
 </div>
 
 ---
