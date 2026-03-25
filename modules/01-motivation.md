@@ -265,7 +265,7 @@ title: Phase 1 - Motivation & Research
       </div>
     </div>
     <div class="persona-body">
-      <p><b>Background:</b> Retired engineer living in Suzhou. Values family but feels "left behind" by fast apps.</p>
+      <p><b>Background:</b> Retired employee living in Suzhou. Values family but feels "left behind" by fast apps.</p>
       <p><b>Pain Points:</b> Finds modern UI "scary"; lonely during weekdays; distracted by tech complexity.</p>
       <p><b>Goal:</b> A simple, dignified way to "play" with his grandkids without needing a manual.</p>
     </div>
