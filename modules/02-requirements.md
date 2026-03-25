@@ -67,12 +67,11 @@ title: Phase 2 - User Requirements
 # 📂 Module 2: User Requirements
 
 ## 2.1 User Journey Map
-*Current pain points of seniors and children during remote communication.*
+*Current pain points of seniors and children.*
 
 <label for="map-toggle" class="map-wrapper">
   <img src="../images/User Journey Map.png" alt="User Journey Map" title="Click to enlarge">
   <div style="text-align:center; font-size: 0.8em; color: #999; padding: 10px;">🔍 Click map to enlarge</div>
-</label>
 
 <input type="checkbox" id="map-toggle">
 <label for="map-toggle" class="map-overlay">
@@ -86,18 +85,18 @@ title: Phase 2 - User Requirements
 
 <div class="req-container">
   <div class="req-card">
-    <h3><span class="must-have-tag">Must-Have 1</span>Low Cognitive Load</h3>
-    <p>The interface must avoid nested menus and complex 3D navigation. For seniors like Grandpa Chen, interaction should be triggered by natural gestures rather than small buttons, reducing "tech-anxiety."</p>
+    <h3><span class="must-have-tag">Must-Have 1</span>Asynchronous Mini-Games</h3>
+    <p>Provides low-pressure games like <b>"Idiom Solitaire"</b> or <b>"Memory Flips"</b> with integrated voice messaging, allowing generations to interact across different time zones without schedule conflicts.</p>
   </div>
 
   <div class="req-card">
-    <h3><span class="must-have-tag">Must-Have 2</span>Synchronous Co-Presence</h3>
-    <p>Both users must interact with the same "virtual toy" in real-time. A shared visual feedback loop (e.g., drawing on the same canvas via camera) creates a sense of "being in the same room."</p>
+    <h3><span class="must-have-tag">Must-Have 2</span>Collaborative Memory Puzzles</h3>
+    <p>Turns old family photos into <b>interactive puzzles</b>. Solving them together unlocks "Memory Stories," turning static heritage into a playful, shared achievement for both grandparents and kids.</p>
   </div>
 
   <div class="req-card">
-    <h3><span class="must-have-tag">Must-Have 3</span>Narrative Scaffolding</h3>
-    <p>The system should provide "playful prompts" (e.g., digital props related to Suzhou Heritage) to help users initiate conversation, moving beyond the awkward "How was your day?" dialogue.</p>
+    <h3><span class="must-have-tag">Must-Have 3</span>The Digital Family Garden</h3>
+    <p>A virtual ecosystem driven by <b>real-time sensor data</b> (steps/study time). It uses visual metaphors like a growing tree to symbolize family health and connection, triggering rewards when members are physically close.</p>
   </div>
 </div>
 
