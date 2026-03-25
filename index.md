@@ -20,7 +20,7 @@ layout: default
   .module-card p { margin: 0; font-size: 0.95em; color: #666; }
 </style>
 
-## 👥 团队成员
+## 👥 Group Members
 <div class="team-container">
   <div class="team-card">
     <h4>Member</h4>
