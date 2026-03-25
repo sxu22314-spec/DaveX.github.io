@@ -72,7 +72,7 @@ title: Phase 2 - User Requirements
 <label for="map-toggle" class="map-wrapper">
   <img src="../images/User Journey Map.png" alt="User Journey Map" title="Click to enlarge">
   <div style="text-align:center; font-size: 0.8em; color: #999; padding: 10px;">🔍 Click map to enlarge</div>
-
+</label>
 <input type="checkbox" id="map-toggle">
 <label for="map-toggle" class="map-overlay">
   <img src="../images/User Journey Map.png" alt="User Journey Map Enlarged">
@@ -85,8 +85,8 @@ title: Phase 2 - User Requirements
 
 <div class="req-container">
   <div class="req-card">
-    <h3><span class="must-have-tag">Must-Have 1</span>Asynchronous Mini-Games</h3>
-    <p>Provides low-pressure games like <b>"Idiom Solitaire"</b> or <b>"Memory Flips"</b> with integrated voice messaging, allowing generations to interact across different time zones without schedule conflicts.</p>
+    <h3><span class="must-have-tag">Must-Have 1</span>Asynchronous and Synchronous Mini-Games</h3>
+    <p>Provides low-pressure games like <b>"Draw&Guess"</b> or <b>"Memory Flips"</b> with integrated voice messaging, allowing generations to interact across different time zones without schedule conflicts or .</p>
   </div>
 
   <div class="req-card">
