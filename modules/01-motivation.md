@@ -283,8 +283,8 @@ title: Phase 1 - Motivation & Research
     </div>
     <div class="persona-body">
       <p><b>Background:</b> Tech-native student. Loves Minecraft and interactive visual content.</p>
-      <p><b>Pain Points:</b> Finds traditional video calls "boring"; has nothing to talk about with elders.</p>
-      <p><b>Goal:</b> Wants to "do something fun" with Grandpa, making the call feel like a shared game.</p>
+      <p><b>Pain Points:</b> loving playing with phones; has nothing to talk about with elders.</p>
+      <p><b>Goal:</b> Wants to "do something fun" with Grandpa, making the interaction intersting.</p>
     </div>
   </div>
 </div>
